@@ -81,13 +81,13 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 ---
 
 ## Tabulation
-<img width="706" height="1280" alt="WhatsApp Image 2026-09-18 at 11 48 49 PM" src="https://github.com/user-attachments/assets/3ae14011-9a74-4d95-8064-a33574d2ced8" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4c7db640-ec63-4b99-a082-c5bda13d5497" />
 
 
 
 
 ## Output
-<img width="1917" height="1020" alt="Screenshot 2026-09-18 234940" src="https://github.com/user-attachments/assets/c4fff0c1-53e7-46c5-be2d-b2b49f350f2f" />
+<img width="961" height="1600" alt="image" src="https://github.com/user-attachments/assets/45d8685b-17f2-4306-ae3d-7792b9e1cb6f" />
 
 
 ## Result
