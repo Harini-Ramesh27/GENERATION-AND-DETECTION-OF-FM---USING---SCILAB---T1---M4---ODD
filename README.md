@@ -88,10 +88,13 @@ The circuits used to generate a frequency modulation must vary the frequency of 
 
 ## Output
 <img width="961" height="1600" alt="image" src="https://github.com/user-attachments/assets/45d8685b-17f2-4306-ae3d-7792b9e1cb6f" />
+MARK SPLIT-UP:
+<img width="1406" height="658" alt="image" src="https://github.com/user-attachments/assets/0e4b24e8-a9ef-415b-8d4c-77aa0d2faf22" />
+
 
 
 ## Result
-Successfully generated frequency Modulation and Demodulation using SCILAB and to observe and measure the frequency deviation and the modulation index of FM.
+<img width="1522" height="457" alt="image" src="https://github.com/user-attachments/assets/d3912cc3-c4a2-48ca-a6bd-fc2adcdb2257" />
 
 
 
